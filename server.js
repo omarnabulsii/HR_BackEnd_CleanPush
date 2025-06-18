@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 
 import usersRouter from "./routes/users.js";
 import requestsRouter from "./routes/requests.js";
-import jobApplicationsRouter from "./routes/jobapplications.js";
+import jobApplicationsRouter from "./routes/jobApplications.js";
 import payrollRouter from "./routes/payroll.js";
 import timesheetsRouter from "./routes/timesheets.js";
 import dashboardRouter from "./routes/dashboard.js";
